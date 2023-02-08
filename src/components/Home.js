@@ -13,7 +13,7 @@ const Home = () => {
         <div className="flex flex-col justify-center h-full">
             <h2 className="text-4xl sm:text-7xl font-bold
             text-white">
-              I'm a Full stack Software Engineer</h2>
+              I'm a Software Engineer</h2>
             <p className="text-gray-500 py-4 max-w-md">I am a fresh graduate from Adventist University of Central Africa 
                 in major of Software engineering.
                 Currently I like to work on Web application using technologies like
